@@ -5121,53 +5121,53 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=16
 
 
 #######################
-########13. CHANNEL | MUSIK#######
+########12. CHANNEL | MUSIK#######
 #######################
 =====================================================================
-```````` 13. CHANNEL | MUSIK ````````
+```````` 12. CHANNEL | MUSIK ````````
 #EXTINF:-1 group-logo="https://i.ibb.co/RyC0Q2J/Logo-TV-Group.png"
 
-#EXTINF:-1 group-title="13. CHANNEL | MUSIK" tvg-id="musica.id" tvg-logo="https://iptv.urfan.web.id/logo/musica.png",Musica Studios
+#EXTINF:-1 group-title="12. CHANNEL | MUSIK" tvg-id="musica.id" tvg-logo="https://iptv.urfan.web.id/logo/musica.png",Musica Studios
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://kister.net/mpl/yt2m3u8?w=@MusicaStudios
 
-#EXTINF:-1 group-title="13. CHANNEL | MUSIK" tvg-id="aquarius.id" tvg-logo="https://iptv.urfan.web.id/logo/aquarius.png",Aquarius Musikindo
+#EXTINF:-1 group-title="12. CHANNEL | MUSIK" tvg-id="aquarius.id" tvg-logo="https://iptv.urfan.web.id/logo/aquarius.png",Aquarius Musikindo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://kister.net/mpl/yt2m3u8?w=@AquariusMusikindo
 
-#EXTINF:-1 group-title="13. CHANNEL | MUSIK" tvg-id="nagaswara.id" tvg-logo="https://iptv.urfan.web.id/logo/nagaswara.png",Nagaswara
+#EXTINF:-1 group-title="12. CHANNEL | MUSIK" tvg-id="nagaswara.id" tvg-logo="https://iptv.urfan.web.id/logo/nagaswara.png",Nagaswara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://kister.net/mpl/yt2m3u8?w=@nagaswarafmbgr
 
-#EXTINF:-1 group-title="13. CHANNEL | MUSIK" tvg-id="musictv.id" tvg-logo="https://iptv.urfan.web.id/logo/musictv.png",Music TV
+#EXTINF:-1 group-title="12. CHANNEL | MUSIK" tvg-id="musictv.id" tvg-logo="https://iptv.urfan.web.id/logo/musictv.png",Music TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 group-title="13. CHANNEL | MUSIK" tvg-id="musikindonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/musikid.png",Musik Indonesia
+#EXTINF:-1 group-title="12. CHANNEL | MUSIK" tvg-id="musikindonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/musikid.png",Musik Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 
-#EXTINF:-1 group-title="13. CHANNEL | MUSIK" tvg-id="nusantaramusik.id" tvg-logo="https://iptv.urfan.web.id/logo/musiknusa.png",Nusantara Musik
+#EXTINF:-1 group-title="12. CHANNEL | MUSIK" tvg-id="nusantaramusik.id" tvg-logo="https://iptv.urfan.web.id/logo/musiknusa.png",Nusantara Musik
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd
 
-#EXTINF:-1 group-title="13. CHANNEL | MUSIK" tvg-id="clubbing.fr" tvg-logo="https://iptv.urfan.web.id/logo/clubbingtv.png",Clubbing TV
+#EXTINF:-1 group-title="12. CHANNEL | MUSIK" tvg-id="clubbing.fr" tvg-logo="https://iptv.urfan.web.id/logo/clubbingtv.png",Clubbing TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856fd0d66d017032d0246a7f90/manifest.mpd
 
-#EXTINF:-1 group-title="13. CHANNEL | MUSIK" tvg-logo="https://iptv.urfan.web.id/logo/kpoptv.png",K-Pop TV
+#EXTINF:-1 group-title="12. CHANNEL | MUSIK" tvg-logo="https://iptv.urfan.web.id/logo/kpoptv.png",K-Pop TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
-#EXTINF:-1 group-title="13. CHANNEL | MUSIK" tvg-id="song.fr" tvg-logo="https://iptv.urfan.web.id/logo/songtv.png",Song TV
+#EXTINF:-1 group-title="12. CHANNEL | MUSIK" tvg-id="song.fr" tvg-logo="https://iptv.urfan.web.id/logo/songtv.png",Song TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
