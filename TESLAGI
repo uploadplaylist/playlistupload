@@ -1628,11 +1628,12 @@ http://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleF
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-########################
+#################################
 #######CHANNEL | OLAH RAGA#######
-########################
-=====================================================================
+#################################
+```````` PLACEHOLDER ````````
 
+#EXTINF:-1 group-logo="here", 
 
 ```````` CHANNEL | OLAH RAGA ````````
 #EXTINF:-1 group-logo="https://i.ibb.co/RyC0Q2J/Logo-TV-Group.png"
@@ -2474,9 +2475,6 @@ http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=b5f67464d9d312c700be706ae06ea789:757b64dc16872bbc5fb23184ce9e1d62
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0184/DASH/V0184.mpd
 
-#EXTINF:-1 tvg-id="Eurosport.in" tvg-logo="https://i.ibb.co/9c6LmLW/eurosp.png " group-title="6. CHANNEL | OLAH RAGA", EUROSPORT 🇮🇳
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="Eurosport 1 DE.de" tvg-logo="https://i.ibb.co/Qk3G5k3/eurosp1.png" group-title="6. CHANNEL | OLAH RAGA", EUROSPORT 1 🇩🇪
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2760,10 +2758,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/o
 #KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wpWgysT/lequipelive1.png" group-title="6. CHANNEL | OLAH RAGA", L'Equipe live 1
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RgnLvZt/lequipelive2.png" group-title="6. CHANNEL | OLAH RAGA", L'Equipe live 2
-
 #EXTINF:-1 group-title="6. CHANNEL | OLAH RAGA" tvg-id="Матч ТВ" tvg-logo="https://i.ibb.co/580BTxg/matchru.png", MATCH! 🇷🇺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
@@ -2790,7 +2784,7 @@ https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2a14f3dd47a4257daa11b017249eb6f:fb8c1664b12588f98ce5dde28b7c8797
-##https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
+https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
 
 #EXTINF:-1 group-title="6. CHANNEL | OLAH RAGA" tvg-id="Матч! Футбол 2" tvg-logo="https://i.ibb.co/nQZWJ34/matchf2.png", MATCH! FOOTBALL 2 🇷🇺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2798,7 +2792,7 @@ https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Tukttf7GSnWf4OQ_VAHqIA","k":"h87O3XilGGWs7H3PDsu39g"}]}
-##https://video.beeline.tv/live/d/channel320.isml/manifest-stb.mpd
+https://video.beeline.tv/live/d/channel320.isml/manifest-stb.mpd
 
 #EXTINF:-1 group-title="6. CHANNEL | OLAH RAGA" tvg-id="Матч! Футбол 3" tvg-logo="https://i.ibb.co/rFx8z4t/matchf3.png", MATCH! FOOTBALL 3 🇷🇺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2806,7 +2800,7 @@ https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"WvVHri3uAyufCo0WWwPcNw","k":"bIQPUjx3P5eUliKNi0TAKA"}]}
-##https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd
+https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd
 
 #EXTINF:-1 tvg-id="Match4 (HD).hu" tvg-logo="https://i.ibb.co/pKjvL3C/match4.png" group-title="6. CHANNEL | OLAH RAGA", MATCH4 🇭🇺
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3016,8 +3010,7 @@ https://cor-coran.theriumworld29.workers.dev/dash-wv/linear/2601/default.mpd
 #EXTINF:-1 tvg-id="Premier Sports 1.ie" group-title="6. CHANNEL | OLAH RAGA" tvg-logo="https://i.ibb.co/nLNtj7C/premiersports1.png", PREMIER SPORTS 1 🇮🇪
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00059cff7b261aa9b2fcbd57ad1ca332:1872a5a3afb4f369ab339024a09fda25
-##https://linear034-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(premier2sports50)/manifest_720.mpd
-
+https://linear034-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(premier2sports50)/manifest_720.mpd
 
 #EXTINF:-1 tvg-id="Premier Sports 1.ie" group-title="6. CHANNEL | OLAH RAGA" tvg-logo="https://i.ibb.co/nLNtj7C/premiersports1.png", PREMIER SPORTS 1 🇮🇪
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3027,7 +3020,7 @@ https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Li
 #EXTINF:-1  tvg-id="Premier Sports 2.ie" group-title="6. CHANNEL | OLAH RAGA" tvg-logo="https://i.ibb.co/bJRhvCM/premiersports2.png", PREMIER SPORTS 2 🇮🇪
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=000354713f5113fd49f41f556bdf1add:9a6ca88b3b6c7088c8197a7366f2e7e5
-##https://linear034-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(premier2sports50)/manifest_720.mpd
+https://linear034-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(premier2sports50)/manifest_720.mpd
 
 #EXTINF:-1  tvg-id="Premier Sports 2.ie" group-title="6. CHANNEL | OLAH RAGA" tvg-logo="https://i.ibb.co/bJRhvCM/premiersports2.png", PREMIER SPORTS 2 🇮🇪
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3250,18 +3243,12 @@ https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31775/FHD/skysport257/maste
 #KODIPROP:inputstream.adaptive.license_key=0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32772/skysport258/master.mpd
 
-#EXTINF:-1 tvg-id="HERE" tvg-logo="https://i.ibb.co/W2pff22/skysport25x.png" group-title="6. CHANNEL | OLAH RAGA", Sky SPORT 259 🇮🇹
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
 #EXTINF:-1 tvg-id="SkySportsArenaHD.uk" tvg-logo="https://i.ibb.co/JRyk0gz/skysarena.png" group-title="6. CHANNEL | OLAH RAGA", Sky SPORTS ARENA 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0005a1e33131edc7ed84598bf3f1f170:3133410b54d1c7c5dece75fb165fdeaa
-##http://linear031-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_hd/Live/channel(sportsarena50)/manifest_hd.mpd
+http://linear031-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_hd/Live/channel(sportsarena50)/manifest_hd.mpd
 
 #EXTINF:-1 tvg-id="SkySportsArenaHD.uk" tvg-logo="https://i.ibb.co/JRyk0gz/skysarena.png" group-title="6. CHANNEL | OLAH RAGA", Sky SPORTS ARENA 🇬🇧 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3275,7 +3262,7 @@ https://linear006-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/ch
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0005df1c2cec030d109e1065494982aa:4a2cc5a8a6a097f8ff4468faeca046f9
-##⚠️http://linear003-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_hd/Live/channel(sportscricket50)/manifest_hd.mpd
+http://linear003-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_hd/Live/channel(sportscricket50)/manifest_hd.mpd
 
 #EXTINF:-1 tvg-id="SkySportsCricketHD.uk" tvg-logo="https://i.ibb.co/ccnKcWn/skycricket.png" group-title="6. CHANNEL | OLAH RAGA", Sky SPORTS CRICKET 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3303,7 +3290,7 @@ https://linear005-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/ch
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00051ec4671fcd3e8095f1e6118d9052:50304047eb0a462a4ba50add2596b215
-##⚠️https://linear005-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsfootball50)/manifest_mob.mpd
+https://linear005-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsfootball50)/manifest_mob.mpd
 
 #EXTINF:-1 tvg-id="SkySportsFootballHD.uk" tvg-logo="https://i.ibb.co/tqNpQxH/skyfootball.png" group-title="6. CHANNEL | OLAH RAGA", Sky SPORTS FOOTBALL 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3317,7 +3304,7 @@ https://linear014-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/ch
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0003b3dbbc147d2b9a3ac639e887c1ec:a3911d1f3af34c416af9a6b5ac1880fe
-##⚠️http://linear006-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_hd/Live/channel(sportsgolf50)/manifest_hd.mpd
+https://linear006-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_hd/Live/channel(sportsgolf50)/manifest_hd.mpd
 
 #EXTINF:-1 tvg-id="SkySportsGolfHD.uk" tvg-logo="https://i.ibb.co/yWrbQgT/skygolf.png" group-title="6. CHANNEL | OLAH RAGA", Sky SPORTS GOLF 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3331,7 +3318,7 @@ https://linear008-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/ch
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0003c16cd15b85b5fb9e849c67e7a766:7865ecc481cb767dd4051bc5a5e38095
-##⚠️http://linear011-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsmainevent50)/manifest_mob.mpd
+https://linear011-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsmainevent50)/manifest_mob.mpd
 
 #EXTINF:-1 tvg-id="SkySportsMainEventHD.uk" tvg-logo="https://i.ibb.co/9ThW7QH/skysmainevent.png" group-title="6. CHANNEL | OLAH RAGA", Sky SPORTS MAIN EVENT 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3352,7 +3339,7 @@ https://linear034-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/ch
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=000396e3d0757680d7971de0d0742ce6:c73130782f138fa46098b3a522ab0e41
-##http://linear030-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_hd/Live/channel(sportsaction50)/manifest_hd.mpd
+https://linear030-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_hd/Live/channel(sportsaction50)/manifest_hd.mpd
 
 #EXTINF:-1 tvg-id="SkySportsNFLHD.uk" tvg-logo="https://i.ibb.co/FnFpBrF/skynfl.png" group-title="6. CHANNEL | OLAH RAGA", Sky SPORTS NFL 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3366,7 +3353,7 @@ https://linear001-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/ch
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0005588f470d6ffad9dfb866cae14137:47242613834db3b6e3e5bb76a999a26b
-##⚠️http://linear010-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportspremierleague50)/manifest_mob.mpd
+https://linear010-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportspremierleague50)/manifest_mob.mpd
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeagueHD.uk" tvg-logo="https://i.ibb.co/RvhTrFd/skyspl.png" group-title="6. CHANNEL | OLAH RAGA", Sky SPORTS PL 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3509,12 +3496,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-name="SPOTV 2" group-title="6. CHANNEL | OLAH RAGA" tvg-logo="https://i.ibb.co/ZM8qx15/spotv2.png",SPO TV 2 🇮🇩
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
-
-#EXTINF: -1 tvg-id="Sports 18 - 1 HD" tvg-logo="https://i.ibb.co/QPwMfJz/sports181-HD.png" group-title="6. CHANNEL | OLAH RAGA", SPORTS 18 1 HD 🇮🇳
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF: -1 tvg-id="Sports 18 - 1" tvg-logo="https://i.ibb.co/QC2VzsK/sports18.png" group-title="6. CHANNEL | OLAH RAGA", SPORTS 18 Khel 🇮🇳
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-title="6. CHANNEL | OLAH RAGA" tvg-id="SSC 1" tvg-logo="https://i.ibb.co/G37Y21X/ssc1.png", SSC 1 🇸🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3724,7 +3705,7 @@ https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/64393bf81dbc891fd41f53ac/man
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6932f68ee603c69b1bbeff9cb11d23fb:ad518d9d047e077654ab073d643cd270
-##https://rikstv-live2.telenorcdn.net/rikstv/1469/2/dash/TV2_Sport_2/manifest.mpd
+https://rikstv-live2.telenorcdn.net/rikstv/1469/2/dash/TV2_Sport_2/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV2 Sport Premium HD (N) (T)" tvg-logo="https://i.ibb.co/RNwxw23/tv2sportpremium.png" group-title="6. CHANNEL | OLAH RAGA", TV2 Sport Premium 🇳🇴
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -4160,21 +4141,21 @@ https://cor-coran.theriumworld29.workers.dev/dash-wv/linear/2603/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
-##http://wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/go-dash-fhd-avc/NL_000014_019661.mpd
+https://wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/go-dash-fhd-avc/NL_000014_019661.mpd
 
 #EXTINF:-1 tvg-id="Ziggo Sport Docu" tvg-logo="https://i.ibb.co/n6Mcj2q/ziggosportdocu.png" group-title="6. CHANNEL | OLAH RAGA", ZIGGO SPORT DOCU 🇳🇱
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-##http://wp5-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000098_019255/go-dash-fhd-avc/NL_000098_019255.mpd
+https://wp5-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000098_019255/go-dash-fhd-avc/NL_000098_019255.mpd
 
 #EXTINF:-1 tvg-id="Ziggo Sport Golf" tvg-logo="https://i.ibb.co/bNtpKWj/ziggosportgolf.png" group-title="6. CHANNEL | OLAH RAGA", ZIGGO SPORT GOLF 🇳🇱
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-##http://wp3-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000096_019382/go-dash-fhd-avc/NL_000096_019382.mpd
+http://wp3-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000096_019382/go-dash-fhd-avc/NL_000096_019382.mpd
 
 #EXTINF:-1 tvg-id="Ziggo Sport Golf" tvg-logo="https://i.ibb.co/bNtpKWj/ziggosportgolf.png" group-title="6. CHANNEL | OLAH RAGA", ZIGGO SPORT GOLF 🇳🇱
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4188,28 +4169,28 @@ https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-##http://wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000097_019370/go-dash-fhd-avc/NL_000097_019370.mpd
+http://wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000097_019370/go-dash-fhd-avc/NL_000097_019370.mpd
 
 #EXTINF:-1 tvg-id="Ziggo Sport Select" tvg-logo="https://i.ibb.co/995ZNdQ/ziggoselect.png" group-title="6. CHANNEL | OLAH RAGA", ZIGGO SPORT SELECT 🇳🇱
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-##http://wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/go-dash-fhd-avc/NL_000094_019321.mpd
+http://wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/go-dash-fhd-avc/NL_000094_019321.mpd
 
 #EXTINF:-1 tvg-id="Ziggo Sport Tennis" tvg-logo="https://i.ibb.co/svTpVxv/ziggotennis.png" group-title="6. CHANNEL | OLAH RAGA",  ZIGGO SPORT TENNIS 🇳🇱
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-##http://wp6-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/go-dash-fhd-avc/NL_000099_019256.mpd
+http://wp6-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/go-dash-fhd-avc/NL_000099_019256.mpd
 
 #EXTINF:-1 tvg-id="Ziggo Sport Voetbal" tvg-logo="https://i.ibb.co/0FcGk4N/ziggosportvoetbal.png" group-title="6. CHANNEL | OLAH RAGA", ZIGGO SPORT VOETBAL 🇳🇱
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-##http://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/go-dash-fhd-avc/NL_000095_019371.mpd
+http://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/go-dash-fhd-avc/NL_000095_019371.mpd
 
 
 
