@@ -219,6 +219,8 @@ https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w330464297.m3u
 
 
 ###### CHANNEL | BERITA ######
+```````` CHANNEL | BERITA ````````
+#EXTINF:-1 group-logo="https://img2.pngdownload.id/20180626/zwf/kisspng-breaking-news-newspaper-logo-exercise-breaking-news-5b31f316e77008.518337951530000150948.jpg",
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
@@ -313,6 +315,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd|refe
   
 
 ##### KID #####
+```````` # CHANNEL | ANAK # ````````
+#EXTINF:-1 group-logo="https://toppng.com/uploads/preview/kartun-anak-tk-11550724625j67o1972sr.png"
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HhtWZNJ/mentari.png" group-title="CHANNEL | ANAK",Mentari
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -402,6 +407,8 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 
 ##### RELIGI #####
+```````` # CHANNEL | RELIGI # ````````
+#EXTINF:-1 group-logo="https://image.gambarpng.id/pngs/png-transparent-lantern-vector-ramadan-islamic-festival_127512.png"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zm90C77/izzah.png" group-title="CHANNEL | RELIGI",Izzah Tv 
 https://streaming.radiosalamjambi.com/izzahtv.m3u8 
@@ -449,7 +456,9 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w974564039.m3u8
 
   
 ##### PREMIUM #####
-  
+```````` # CHANNEL | FILM # ````````
+#EXTINF:-1 group-logo="https://filmstarfacts.com/wp-content/uploads/2017/09/The_Movies_Logo_-_Medium_Resolution_.jpg"
+
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
@@ -598,7 +607,8 @@ https://link.zozotv.xyz:443/rozila969/abc12345/111
 https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd|referer=https://www.visionplus.id
 
   
-##### MALAYSIA #####
+```````` # CHANNEL | ASIA # ````````
+#EXTINF:-1 group-logo="https://logos.flamingtext.com/Name-Logos/Asia-design-amped-name.png"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
@@ -675,264 +685,166 @@ https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1GP09C2/citra.png" group-title="CHANNEL | ASIA",Astro Citra
 https://link.zozotv.xyz:443/rozila969/abc12345/36  
     
-
-##### BRUNEI #####
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f8c5292/sukmaindera.png" group-title="CHANNEL | ASIA",Sukmaindera
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WDYz98H/aneka.png" group-title="CHANNEL | ASIA",Aneka
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/255MV8H/rtbgo.png" group-title="CHANNEL | ASIA",Rtb Go
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-
-
-##### SINGAPURA #####
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
 #EXTINF:-1 tvg-id="Suria" tvg-logo="https://i.ibb.co/6NWxZHv/suria.png" group-title="CHANNEL | ASIA",Suria
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
-
 #EXTINF:-1 group-title="CHANNEL | ASIA" tvg-id="Channel NewsAsia HD" tvg-logo="https://i.ibb.co/JdsCpsM/cna.png",CNA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7cb90b341f444e4ca3fb60de2ed3d6e5:5640220b78729773fbeaabc19a502b50
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
-
 
 #EXTINF:-1 group-title="CHANNEL | ASIA" tvg-id="Channel 5 HD" tvg-logo="https://i.ibb.co/hC5Xszk/m5.png",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
-
 #EXTINF:-1 group-title="CHANNEL | ASIA" tvg-id="Channel 8 HD" tvg-logo="https://i.ibb.co/c3DLrvQ/m8.png",Channel 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
-
 
 #EXTINF:-1 group-title="CHANNEL | ASIA" tvg-id="Channel U HD" tvg-logo="https://i.ibb.co/D4YptKz/mu.png",Channel U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
-
 #EXTINF:-1 group-title="CHANNEL | ASIA" tvg-id="Vasantham HD" tvg-logo="https://i.ibb.co/ByCZV9B/vasantham.png",Vasantham
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9970038ef6c548e39768f3a1ff6f5081:3e19d54b7bcd8bb336776fe136d48f57
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
-  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GPj72H/tvs.png" group-title="CHANNEL | ASIA",TVS
-https://link.zozotv.xyz:443/rozila969/abc12345/59  
-  
-  
-##### INDIA #####
- 
+https://link.zozotv.xyz:443/rozila969/abc12345/59    
 
 #EXTINF:-1 tvg-id="Zee Cinema HD" tvg-name="ZEE CINEMA" tvg-logo="https://i.ibb.co/rvtVzRg/zeebioskop.png" group-title="CHANNEL | ASIA",Zee Bioskop
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/zeebioskop.m3u8
   
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gz9DZhW/pix.png" group-title="CHANNEL | ASIA",Sony Pix 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FzkpkL2/sab.png" group-title="CHANNEL | ASIA",Sony Sab 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R7M4V2H/pal.png" group-title="CHANNEL | ASIA",Sony Pal 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
 https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6Y4Cx2/9xm.png" group-title="CHANNEL | ASIA",9xm
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-  
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8 
   
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9r1qzyf/vaanavil.png" group-title="CHANNEL | ASIA",Astro Vaanavil  
 https://link.zozotv.xyz:443/rozila969/abc12345/58  
-  
-
-##### CHINA #####
-
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="" tvg-url="https://s.id/KITKATTV" tvg-logo="https://i.ibb.co/ggP9W2C/xingkong.png" group-title="CHANNEL | KOREA-CHINA",XingkongTV
-https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#è:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="CHANNEL | KOREA-CHINA" tvg-logo="https://i.ibb.co/qjzmxvs/anhui-1.png",Anhui TV
-https://nyanv-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
-
-
-#EXTINF:-1 group-title="CHANNEL | KOREA-CHINA" tvg-logo="https://i.ibb.co/ww9yfRC/toonmax.png",Toonmax TV
-http://210.210.155.35/uq2663/h/h227/index.m3u8
-  
-  
-##### KOREA ##### 
-  
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="CHANNEL | KOREA-CHINA" tvg-logo="https://i.ibb.co/vJPHfNk/tvn.png",TVN
-https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd|referer=https://www.visionplus.id
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SPdB9RR/tvnmovies.png" group-title="CHANNEL | KOREA-CHINA",TVN Movies 
-https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd|referer=https://www.visionplus.id 
- 
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHANNEL | KOREA-CHINA" tvg-logo="https://i.ibb.co/0nZQ363/k.png", K+
-##http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
-http://xtv.ooo:8080/3212571066/abc123/350980  
- 
-  
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHANNEL | KOREA-CHINA" tvg-logo="https://i.ibb.co/TWrDRn5/kbsworld.png",KBS World  
-http://xtv.ooo:8080/3212571066/abc123/350981
-  
-
-##### THAILAND #####
-
 
 #EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="NBT 2 HD" group-title="CHANNEL | ASIA" tvg-logo="https://i.ibb.co/Nsqz5nY/nbt2.png",Nbt 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt3/index.m3u8
 
-
 #EXTINF:-1 tvg-chno="3"  tvg-id="TPBS.th" tvg-name="TPBS" group-title="CHANNEL | ASIA" tvg-logo="https://i.ibb.co/MN9ymzy/thaipbs.png",Thai Pbs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthaipbs3/index.m3u8
-
 
 #EXTINF:-1 tvg-chno="4"  tvg-id="ALTV4.th" tvg-name="ALTV" group-title="CHANNEL | ASIA" tvg-logo="https://i.ibb.co/ky4hmhd/altv.png",Altv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ALTV3/index.m3u8
 
-
 #EXTINF:-1 tvg-chno="5"  tvg-id="TV5 HD" tvg-name="TV5 HD" group-title="CHANNEL | ASIA" tvg-logo="https://i.ibb.co/2Ws6nxy/tv5.png",Tv5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd3/index.m3u8
-
 
 #EXTINF:-1 tvg-chno="6"  tvg-id="Boomerang.th" tvg-name="Boomerang Thai" group-title="CHANNEL | ASIA" tvg-logo="https://i.ibb.co/NKZxP6J/boomerang.png",Boomerang Thai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
 
-
 #EXTINF:-1 tvg-chno="7"  tvg-id="T-Sports7.th" tvg-name="T-Sports7" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/hnfiUbK.png",T-Sports7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
-
 
 #EXTINF:-1 tvg-chno="8"  tvg-id="Channel 8.th" tvg-name="Channel 8" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/WypvBZ7.jpg",Channel 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 
-
 #EXTINF:-1 tvg-chno="9"  tvg-id="Jomyut" tvg-name="Jomyut" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/i7HCIuZ.jpg",Jomyut
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
-
 
 #EXTINF:-1 tvg-chno="10"  tvg-id="Parliament.th" tvg-name="Parliament" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/Jfdy937.png",Parliament
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV3/index.m3u8
 
-
 #EXTINF:-1 tvg-chno="11"  tvg-id="MOVIES WORLD 1.th" tvg-name="MOVIES WORLD 1" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/OsD28mZ.jpg",MOVIES WORLD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
-
 
 #EXTINF:-1 tvg-chno="12"  tvg-id="MOVIES WORLD 2.th" tvg-name="MOVIES WORLD 2" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/OsD28mZ.jpg",MOVIES WORLD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8
 
-
 #EXTINF:-1 tvg-chno="13"  tvg-id="MOVIES WORLD 3.th" tvg-name="252.MOVIES WORLD 3" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/OsD28mZ.jpg",MOVIES WORLD 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
-
 
 #EXTINF:-1 tvg-chno="14"  tvg-id="ANIMAL KINGDOM.th" tvg-name="ANIMAL KINGDOM" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/jhQ1SAs.png",ANIMAL KINGDOM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC18/index.m3u8
 
-
 #EXTINF:-1 tvg-chno="15"  tvg-id="ATTV.th" tvg-name="ATTV" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/HtBXgaZ.png",ATTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-chno="16"  tvg-id="TNN.th" tvg-name="TNN" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/mfVhuRC.png",TNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn3/index.m3u8
 
-
 #EXTINF:-1 tvg-chno="17"  tvg-id="TVB Thai.th" tvg-name="TVB Thai" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/hFZeMAu.png",TVB Thai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
-
 
 #EXTINF:-1 tvg-chno="18"  tvg-id="JKN 18.th" tvg-name="JKN 18" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/zxgCdl0.png",JKN 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
 
-
 #EXTINF:-1 tvg-chno="19"  tvg-id="7Flix.th" tvg-name="7Flix" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/XTC7PUr.png",7Flix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8
-
 
 #EXTINF:-1 tvg-chno="20"  tvg-id="Mangkorn.th" tvg-name="Mangkorn" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/vMWjnIm.pngxx",Mangkorn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 
-
 #EXTINF:-1 tvg-chno="20"  tvg-id="News 1.th" tvg-name="News 1" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/6lorisb.jpg",News 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://news1.live14.com/stream/news1.m3u8
-
 
 #EXTINF:-1 tvg-chno="22"  tvg-id="Nation TV.th" tvg-name="Nation TV" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/RULAfjb.png",Nation TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation3/index.m3u8
 
-
 #EXTINF:-1 tvg-chno="23"  tvg-id="Workpoint TV.th" tvg-name="Workpoint TV" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/oxf6BRn.png",Workpoint TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint3/index.m3u8
 
-
 #EXTINF:-1 tvg-chno="24"  tvg-id="True 4 U.th" tvg-name="True 4 U" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/tXb8NiE.png",True 4 U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u3/index.m3u8
-
 
 #EXTINF:-1 tvg-chno="25"  tvg-id="GMM25.th" tvg-name="GMM25" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/sWGT1SD.png",GMM25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -946,64 +858,95 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch83/index.m3u8
 
-
 #EXTINF:-1 tvg-chno="28"  tvg-id="Cartoon Club.th" tvg-name="Cartoon Club" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/82UoSmm.png",Cartoon Club
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
-
 
 #EXTINF:-1 tvg-chno="29"  tvg-id="MONO.th" tvg-name="MONO" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/V4VWHiB.png",MONO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono293/index.m3u8
 
-
 #EXTINF:-1 tvg-chno="30"  tvg-id="MCOT HD.th" tvg-name="MCOT HD" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/S4dSUQ7.png",MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
-
 
 #EXTINF:-1 tvg-chno="31"  tvg-id="ONE 31 HD.th" tvg-name="ONE 31 HD" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/9apyiI0.png",ONE 31 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd3/index.m3u8
 
-
 #EXTINF:-1 tvg-chno="32"  tvg-id="Thairath TV HD.th" tvg-name="Thairath TV HD" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/ArasZJO.png",Thairath TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
-
 
 #EXTINF:-1 tvg-chno="33"  tvg-id="3 HD.th" tvg-name="3 HD" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/lHbIKfF.png",3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
 
-
 #EXTINF:-1 tvg-chno="34"  tvg-id="AmarinTV HD.th" tvg-name="AmarinTV HD" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/S6gvvf9.png",AmarinTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
-
 
 #EXTINF:-1 tvg-chno="35"  tvg-id="CH7 HD.th" tvg-name="CH7 HD" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/vxnLkTz.png",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd3/index.m3u8
 
-
 #EXTINF:-1 tvg-chno="36"  tvg-id="PPTV HD.th" tvg-name="PPTV HD" group-title="CHANNEL | ASIA" tvg-logo="https://i.imgur.com/i4t7Q0C.png",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8 
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
+
+
+##### CHINA #####
+```````` # CHANNEL | KOREA-CHINA # ````````
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nuvola_North_and_South_Korean_flags.svg/800px-Nuvola_North_and_South_Korean_flags.svg.png"
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="" tvg-url="https://s.id/KITKATTV" tvg-logo="https://i.ibb.co/ggP9W2C/xingkong.png" group-title="CHANNEL | KOREA-CHINA",XingkongTV
+https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="CHANNEL | KOREA-CHINA" tvg-logo="https://i.ibb.co/qjzmxvs/anhui-1.png",Anhui TV
+https://nyanv-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
+
+#EXTINF:-1 group-title="CHANNEL | KOREA-CHINA" tvg-logo="https://i.ibb.co/ww9yfRC/toonmax.png",Toonmax TV
+http://210.210.155.35/uq2663/h/h227/index.m3u8 
+  
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="CHANNEL | KOREA-CHINA" tvg-logo="https://i.ibb.co/vJPHfNk/tvn.png",TVN
+https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd|referer=https://www.visionplus.id
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SPdB9RR/tvnmovies.png" group-title="CHANNEL | KOREA-CHINA",TVN Movies 
+https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd|referer=https://www.visionplus.id 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHANNEL | KOREA-CHINA" tvg-logo="https://i.ibb.co/0nZQ363/k.png", K+
+##http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
+http://xtv.ooo:8080/3212571066/abc123/350980  
+   
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CHANNEL | KOREA-CHINA" tvg-logo="https://i.ibb.co/TWrDRn5/kbsworld.png",KBS World  
+http://xtv.ooo:8080/3212571066/abc123/350981
+  
+ 
 
 ###### KNOWLEDGE #####
-
+```````` # CHANNEL | PENGETAHUAN # ````````
+#EXTINF:-1 group-logo="https://previews.123rf.com/images/brgfx/brgfx1802/brgfx180200050/94766432-word-science-on-green-board-and-science-equipments-illustration.jpg"
 
 #EXTINF:-1 tvg-name="AFN" tvg-logo="https://i.ibb.co/LdHt5Qb/afn.png" group-title="CHANNEL | PENGETAHUAN",AFN
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/afn.m3u8
-  
-  
+   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kx79gNP/bbceart.png" group-title="CHANNEL | PENGETAHUAN",BBC Earth
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd|referer=https://www.visionplus.id
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
@@ -1011,27 +954,21 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8P6tkJz/outdoor.png" group-title="CHANNEL | PENGETAHUAN",Outdoor
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd|referer=https://www.visionplus.id
 
-
 #EXTINF:-1 group-title="CHANNEL | PENGETAHUAN" tvg-logo="https://i.ibb.co/TMBTXpQ/natgeo-1.png",Nat Geo 
 http://xtv.ooo:8080/3212571066/abc123/351007
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RBz7MTf/natgeo.png" group-title="CHANNEL | PENGETAHUAN",Geo Wild
 http://xtv.ooo:8080/3212571066/abc123/351008
 
-
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/94p4KhG/discovery.png" group-title="CHANNEL | PENGETAHUAN",Discovery Channel
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2kr5kc/science.png" group-title="CHANNEL | PENGETAHUAN",Discover Science
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverysci.m3u8
 
-
 #EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/vqrFqBD/animalplanet.png" group-title="CHANNEL | PENGETAHUAN",Animal Planet
 ##https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
 https://link.zozotv.xyz:443/rozila969/abc12345/123
-
   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1039,17 +976,14 @@ https://link.zozotv.xyz:443/rozila969/abc12345/123
 #EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://i.ibb.co/7r0ktcw/history.png" group-title="CHANNEL | PENGETAHUAN",History
 https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd|referer=https://www.visionplus.id
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-name="CRIME INVESTIGATION" tvg-logo="https://i.ibb.co/LPCmgSh/crime.png" group-title="CHANNEL | PENGETAHUAN",Crime Invest
 https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd|referer=https://www.visionplus.id
 
-
 #EXTINF:-1 group-title="CHANNEL | PENGETAHUAN" tvg-logo="https://i.ibb.co/nz9V9x8/investigasi.png",321.Investigation Discovery 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/investigationdiscovery.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1057,14 +991,12 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/investigationdiscovery.
 #EXTINF:-1 tvg-name="CGTN DOCUMENTARY" tvg-logo="https://i.ibb.co/gV3V5Nr/cgtn.png" group-title="CHANNEL | PENGETAHUAN",Cgtn
 https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd|referer=https://www.visionplus.id
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-name="LOVE NATURE" tvg-logo="https://i.ibb.co/nqXBr4M/lovenature.png" group-title="CHANNEL | PENGETAHUAN",Love Nature
 ##https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd|referer=https://www.visionplus.id
 https://link.zozotv.xyz:443/rozila969/abc12345/116
-
   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -1072,37 +1004,30 @@ https://link.zozotv.xyz:443/rozila969/abc12345/116
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jfZVWwG/trakker.png" group-title="CHANNEL | PENGETAHUAN",Global Trekker
 https://nyanv-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd|referer=https://www.visionplus.id
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2WLry3D/dmax.png" group-title="CHANNEL | PENGETAHUAN",Dmax
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/sF502sh/turbo.png" group-title="CHANNEL | PENGETAHUAN",Discover Turbo
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoveryturbo.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/r0JzTJs/travel.png" group-title="CHANNEL | PENGETAHUAN",Travel Channel
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/trvlchannel.m3u8
-
 
 #EXTINF:-1 tvg-name="NASA TV" tvg-logo="https://i.ibb.co/cX4txzp/nasatv.png" group-title="CHANNEL | PENGETAHUAN",Nasa Tv 1
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cX4txzp/nasatv.png" group-title="CHANNEL | PENGETAHUAN",Nasa Tv 2
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3dXRskq/dfc.png" group-title="CHANNEL | PENGETAHUAN",Dfc
 http://210.210.155.35/uq2663/h/h221/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XtW2jp3/hgtv.png" group-title="CHANNEL | PENGETAHUAN",Hgtv
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 
-
 ##### SPORT #####
-
+```````` # CHANNEL | SPORT # ````````
+#EXTINF:-1 group-logo="https://st2.depositphotos.com/4035061/9849/v/450/depositphotos_98497236-stock-illustration-tiger-a-sports-logo.jpg"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
