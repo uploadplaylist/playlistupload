@@ -1,12 +1,14 @@
 #EXTM3U billed-msg="# PLAYLIST CUSTOM BY IPTV FREEMIUM™ #", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml" m3uautoload=1 cache=500 deinterlace=1 refresh="6"
 
-#EXTINF:-1 tvg-logo="https://i.pngimg.me/thumb/f/720/comdlpng6943971.jpg" group-title="# SUPPORT ADMIN #",1. SELAMAT DATANG DI CHANNEL YOUTUBE IPTV-FREEMIUM™ 
+```````` # SUPPORT | ADMIN # ````````
+#EXTINF:-1 group-logo="https://i.pngimg.me/thumb/f/720/comdlpng6943971.jpg"
+#EXTINF:-1 tvg-logo="https://i.pngimg.me/thumb/f/720/comdlpng6943971.jpg" group-title="# SUPPORT | ADMIN #",1. SELAMAT DATANG DI CHANNEL YOUTUBE IPTV-FREEMIUM™ 
 https://www.youtube.com/@playlistfreemium
-#EXTINF:-1 tvg-logo="https://i.pngimg.me/thumb/f/720/comdlpng6943971.jpg" group-title="# SUPPORT ADMIN #",2. BANTU SUBSCRIBE AND LIKE CHANNEL
+#EXTINF:-1 tvg-logo="https://i.pngimg.me/thumb/f/720/comdlpng6943971.jpg" group-title="# SUPPORT | ADMIN #",2. BANTU SUBSCRIBE AND LIKE CHANNEL
 https://www.youtube.com/@playlistfreemium
-#EXTINF:-1 tvg-logo="https://i.pngimg.me/thumb/f/720/comdlpng6943971.jpg" group-title="# SUPPORT ADMIN #",3. AGAR PLAYLIST INI BISA TERUS DI PAKAI DAN UPDATE
+#EXTINF:-1 tvg-logo="https://i.pngimg.me/thumb/f/720/comdlpng6943971.jpg" group-title="# SUPPORT | ADMIN #",3. AGAR PLAYLIST INI BISA TERUS DI PAKAI DAN UPDATE
 https://www.youtube.com/@playlistfreemium
-#EXTINF:-1 tvg-logo="https://i.pngimg.me/thumb/f/720/comdlpng6943971.jpg" group-title="# SUPPORT ADMIN #",4. SILAHKAN TULIS DIKOMENTAR JIKA ADA LINK YANG OFF
+#EXTINF:-1 tvg-logo="https://i.pngimg.me/thumb/f/720/comdlpng6943971.jpg" group-title="# SUPPORT | ADMIN #",4. SILAHKAN TULIS DIKOMENTAR JIKA ADA LINK YANG OFF
 https://www.youtube.com/@playlistfreemium
 
 
@@ -275,7 +277,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuB
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pZ987V3/seatoday.png" group-title="CHANNEL | BERITA",062.Sea Today 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pZ987V3/seatoday.png" group-title="CHANNEL | BERITA",Sea Today 
 https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd|referer=https://www.visionplus.id 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
