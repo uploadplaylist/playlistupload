@@ -1,3 +1,6 @@
+#EXTM3U
+
+
 =========================================== ARENA SPORTS ===========================================
 
 #EXTINF:-1 group-title="VIP SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png",Arena 1 Premium
@@ -164,42 +167,42 @@ https://cors-proxy.cluster.fun/https://hls-m006-live-aka-canalplus.akamaized.net
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-046/stream.mpd
 
-#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="PL | Canal + Sport HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/canalplussporthd.png" group-title="SPORT MULTI CK",PL | Canal + Sport HD
+#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="PL | Canal + Sport HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/canalplussporthd.png" group-title="VIP SPORT",PL | Canal + Sport HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4e942b1dad92436baad0c6a6901f6d13":"5adefdb3f4edd5ceee23d37c10c37e5c","5fb92575d7da45219e9a88646cd3e243":"31d1f1df9c246eb734de1be0f6bf6acf","7c35f5ae279941b7be726157476d7031":"53dcc0a61387ce3fa3bfa290a9bc80c7","7cd69bed1cc54d83bd7f988f622c1157":"332e0a856cdfcd7a1d6da6dcf84633a7"}
 https://cors-proxy.cluster.fun/https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSportHD/hd2-dashdrm02/CplusSportHD.mpd
 
-#EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="PL | Canal + Sport 2 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/canalplussport2hd.png" group-title="SPORT MULTI CK",PL | Canal + Sport 2 HD
+#EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="PL | Canal + Sport 2 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/canalplussport2hd.png" group-title="VIP SPORT",PL | Canal + Sport 2 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4f7fa9f0250a43cea8aebd8167f1fc81":"f6bbc783b0e7a46a147e673a4347730a","f5c080517f6c4366b1930315a6aa70e7":"581eba7045254d1de036557789932a05","89787fecb0ac43ab86aa356054e2a183":"f0153c6dc5c55c5f23fcdeed8241d5e4"}
 https://cors-proxy.cluster.fun/https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSport2HD/hd2-dashdrm02/CplusSport2HD.mpd
 
-#EXTINF:-1 tvg-id="canalplussport3.pl" tvg-name="PL | Canal + Sport 3 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/canalplussporthd.png" group-title="SPORT MULTI CK",PL | Canal + Sport 3 HD
+#EXTINF:-1 tvg-id="canalplussport3.pl" tvg-name="PL | Canal + Sport 3 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/canalplussporthd.png" group-title="VIP SPORT",PL | Canal + Sport 3 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"274cafc63e854f9ca14acbc49af103a0":"4dc63ff74dc5415f3c0c63b62f8fedaa","b4274e5bdb7e4370bb87af609a74a64e":"4763cbd2fa26f4de8bead22db09b0f46","009d1ea463574791a88e5d008f7ab15c":"fa4812bd0d608c2f8bfeb02fb213320d"}
 https://cors-proxy.cluster.fun/https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSport3HD/hd2-dashdrm02/CplusSport3HD.mpd
 
-#EXTINF:-1 tvg-id="canalplussport4.pl" tvg-name="PL | Canal + Sport 4 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/canalplussporthd.png" group-title="SPORT MULTI CK",PL | Canal + Sport 4 HD
+#EXTINF:-1 tvg-id="canalplussport4.pl" tvg-name="PL | Canal + Sport 4 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/canalplussporthd.png" group-title="VIP SPORT",PL | Canal + Sport 4 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"bdcfde35c73f4c2dbd628fa3694010b9":"96a0683d85cc793eeb116b94731b2a4e","638d2f06b75c4341a990ebebae2055ae":"493508c2f5af5428bb8e09da1207324c"}
 https://cors-proxy.cluster.fun/https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSport4HD/hd2-dashdrm02/CplusSport4HD.mpd
 
-#EXTINF:-1 tvg-id="canalplussport4.pl" tvg-name="PL | Canal + Sport 4 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/canalplussporthd.png" group-title="SPORT MULTI CK",PL | Canal + F1
+#EXTINF:-1 tvg-id="canalplussport4.pl" tvg-name="PL | Canal + Sport 4 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/canalplussporthd.png" group-title="VIP SPORT",PL | Canal + F1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"83A5lln1SVSoCg5Tx6h7QA","k":"yU_YwwPbyfZBWsJ0TtkhEw"},{"kty":"oct","kid":"SCAy5NVMSGmIFNGZWj9FLA","k":"aS_xMB111sb3VvwxGX__mg"},{"kty":"oct","kid":"k8KJNVWiQFmKSgrkDrQH1Q","k":"rHAAoGyMfsCzOIHXBRrcVg"},{"kty":"oct","kid":"Kz7KkJPoTrOUGuw5YS3IFA","k":"l-LT4AN7A5Sz1SrSOTA40Q"}]}
 https://cors-proxy.cluster.fun/https://hls-m006-live-aka-canalplus.akamaized.net/live/disk/canalplusf1-hd/dash-fhddvr/canalplusf1-hd.mpd
 
-#EXTINF:-1 tvg-id="canalplussport4.pl" tvg-name="PL | Canal + Sport 4 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/canalplussporthd.png" group-title="SPORT MULTI CK",PL | Canal + MOTO GP
+#EXTINF:-1 tvg-id="canalplussport4.pl" tvg-name="PL | Canal + Sport 4 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/canalplussporthd.png" group-title="VIP SPORT",PL | Canal + MOTO GP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -306,28 +309,28 @@ http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd
 
 =========================================== ELEVEN  ===========================================
 
-#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="PL | Eleven Sport 1 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/elevensports1hd.png" group-title="SPORT MULTI CK",PL | Eleven Sport 1 HD
+#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="PL | Eleven Sport 1 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/elevensports1hd.png" group-title="VIP SPORT",PL | Eleven Sport 1 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"9d042fa273964e24a9109e23f4e313cc":"540e3601e1b82192c76c7411ad9c8c8e","014e7cf40d9e490a812964f4aa72449e":"01b8caafb230eb2a07cc965d54ef4441","801d9e39d41a49418615f7cee4b6e031":"84b9bec014f0509ee2a4296e5877cf40"}
 https://cors-proxy.cluster.fun/https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/11Sports1/hd2-dashdrm02/11Sports1.mpd
 
-#EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="PL | Eleven Sports 2 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/elevensports2hd.png" group-title="SPORT MULTI CK",PL | Eleven Sports 2 HD
+#EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="PL | Eleven Sports 2 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/elevensports2hd.png" group-title="VIP SPORT",PL | Eleven Sports 2 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4e1df327c661472f96319dd7e98bf5bd":"36263f85c3c25a131f47cee90924e1f3","71be6f968ab54a8bb847b58bbc7c628e":"3dd907fffdbffd7ec01b4025ad97ec6a"}
 https://cors-proxy.cluster.fun/https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/11Sports2/hd2-dashdrm02/11Sports2.mpd
 
-#EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="PL | Eleven Sports 3 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/elevensports3hd.png" group-title="SPORT MULTI CK",PL | Eleven Sports 3 HD
+#EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="PL | Eleven Sports 3 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/elevensports3hd.png" group-title="VIP SPORT",PL | Eleven Sports 3 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"ce125d7af48a45799d671941125ed55e":"973599517f31f3b4327fa975f549ed2b","55b19ea29fdd4c96825531f96a504df1":"a6ec613e0eadfb923ff816e4c8c68a4a","1de6210c1b064b928c5bb003da7023e5":"d1eb59b178c89539d7caf1022968107e"}
 https://cors-proxy.cluster.fun/https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/11Sports3/hd2-dashdrm02/11Sports3.mpd
 
-#EXTINF:-1 tvg-id="elevensportsports4.pl" tvg-name="PL | Eleven Sports 4 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/elevensports4hd.png" group-title="SPORT MULTI CK",PL | Eleven Sports 4 HD
+#EXTINF:-1 tvg-id="elevensportsports4.pl" tvg-name="PL | Eleven Sports 4 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/elevensports4hd.png" group-title="VIP SPORT",PL | Eleven Sports 4 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
