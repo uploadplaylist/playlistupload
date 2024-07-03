@@ -144,11 +144,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
 http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.ifi-id.com/wp-content/uploads/2021/10/FSP-Logo_0006_Page-35-Media-Partner-TV5-MONDE.jpg", TV5 SD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#EXTVLCOPT:http-referrer=https://www.dens.tv/ 
-https://op-group1-swiftservehd-1.dens.tv/h/h312/01.m3u8
-
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG821I_hFb-f3v_ShTvg0RR5nzTVe0w__rHU2YF1i_UNHILW57p6H_OflGqIyZ_8B2k2Y&usqp=CAU", HITS SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
