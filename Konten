@@ -71,12 +71,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/NIvaeo_vWUDEUd0eGVEsxYuMUpA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6587/citra-dangdut-0ed971.jpg" group-title="NASIONAL",Ai Citra Dangdut
 https://okegas.transvision.workers.dev/dassdvr/130/citradangdut/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/aJwZXOGQIYcrqar3MBE9Ehnqgww=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg" group-title="NASIONAL",Ai Citra Drama
-https://okegas.transvision.workers.dev/dassdvr/130/cdrama/manifest.mpd
-
 #EXTINF:0 tvg-id="CitraEntertainment.id" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/31hNNC8DYlvWojd9s5kk1eLcgnI=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg" group-title="NASIONAL", Ai CITRA ENTERTAINMENT 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -173,12 +167,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
 http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
 
-
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502909_tvchannels_v1.jpg", TVN MOVIES SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
 http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
-
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/WyOH70QPRYe6fqguAwatxmRviDA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-e11bc8.jpg", TVN SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -232,7 +224,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
 http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
 
-
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4TEwrqokDL8GP262DHo40cxfHFf7uYSMmMyJoIxjYNw&s", CCM SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
@@ -263,7 +254,6 @@ https://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8?app_type=web&userid=li
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
 https://op-group1-swiftservehd-1.dens.tv/h/h312/01.m3u8
 
-
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzv0z2zuZR0LqmSQoOBjcuSeIoJloYBpRmr4sfDbfw10WfvxVLIoXO5vuFHWHN4Iayhs&usqp=CAU", CGTN SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
@@ -273,7 +263,6 @@ https://op-group1-swiftservesd-1.dens.tv/s/s20/index.m3u8?app_type=web&userid=li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
 http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
-
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG821I_hFb-f3v_ShTvg0RR5nzTVe0w__rHU2YF1i_UNHILW57p6H_OflGqIyZ_8B2k2Y&usqp=CAU", HITS SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -289,7 +278,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
 http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_HD
-
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/010/50010-SNAPSHOT-m.png", Ai MY KIDZ HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
