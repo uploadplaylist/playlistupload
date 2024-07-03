@@ -1,11 +1,9 @@
-#EXTM3U billed-msg="# PLAYLIST CUSTOM BY IPTV FREEMIUM™ #", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml" m3uautoload=1 cache=500 deinterlace=1 refresh="6"
+#EXTM3U billed-msg="# PLAYLIST CUSTOM BY IPTV FREEMIUM™ #", url-tvg="https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml" m3uautoload=1 cache=500 deinterlace=1 refresh="6"
 
 
 ###########################
 ######## NASIONAL  ########
 ###########################
-
-```````` INDONESIA ````````
 
  
 #EXTINF:0 tvg-id="CitraMuslim.id" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/cYjrKEVUBEgNSFGp-F_QtnYVUXE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6678/citra-muslim-68ac64.jpg" group-title="NASIONAL",Ai CITRA MUSLIM 
@@ -60,11 +58,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
 https://okegas.transvision.workers.dev/dassdvr/130/citradangdut/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/aJwZXOGQIYcrqar3MBE9Ehnqgww=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg" group-title="NASIONAL",Ai Citra Drama
-https://okegas.transvision.workers.dev/dassdvr/130/cdrama/manifest.mpd
-
 #EXTINF:0 tvg-id="CitraEntertainment.id" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/31hNNC8DYlvWojd9s5kk1eLcgnI=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg" group-title="NASIONAL", Ai CITRA ENTERTAINMENT 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -161,12 +154,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
 http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
 
-
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502909_tvchannels_v1.jpg", TVN MOVIES SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
 http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
-
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/WyOH70QPRYe6fqguAwatxmRviDA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-e11bc8.jpg", TVN SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -220,7 +211,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
 http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
 
-
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4TEwrqokDL8GP262DHo40cxfHFf7uYSMmMyJoIxjYNw&s", CCM SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
@@ -251,7 +241,6 @@ https://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8?app_type=web&userid=li
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
 https://op-group1-swiftservehd-1.dens.tv/h/h312/01.m3u8
 
-
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzv0z2zuZR0LqmSQoOBjcuSeIoJloYBpRmr4sfDbfw10WfvxVLIoXO5vuFHWHN4Iayhs&usqp=CAU", CGTN SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
@@ -261,7 +250,6 @@ https://op-group1-swiftservesd-1.dens.tv/s/s20/index.m3u8?app_type=web&userid=li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
 http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
-
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG821I_hFb-f3v_ShTvg0RR5nzTVe0w__rHU2YF1i_UNHILW57p6H_OflGqIyZ_8B2k2Y&usqp=CAU", HITS SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -277,7 +265,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
 http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_HD
-
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/010/50010-SNAPSHOT-m.png", Ai MY KIDZ HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -328,11 +315,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
 https://op-group1-swiftservehd-1.dens.tv/h/h156/index2.m3u
-
-
-##########################
-####### INFORMASI ########
-##########################
 
 LOKAL SPORT
 
@@ -402,9 +384,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://worker-bold-king-f3d4.aimiemah.workers.dev/
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
-
-
-===================================================================
 
 ######################
 ######## ANAK ########
@@ -542,11 +521,10 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 #EXTINF:-1 group-title="ANAK" tvg-id="zoomoo.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zoomookidslogo.png/revision/latest",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
  
-######################
-#######BERITA######
-######################
-=====================================================================
-```````` BERITA ````````
+#####################
+####### BERITA ######
+#####################
+
 
  
 #EXTINF:-1 group-title="BERITA" tvg-id="beritajakarta.id" tvg-logo="https://iptv.urfan.web.id/logo/beritajakarta.png",BeritaJakarta TV
@@ -595,8 +573,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016d063630b46d1c/manifest.mpd
- 
- 
+  
 #EXTINF:-1 group-title="BERITA" tvg-id="idxchannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/IDX_Channel.png",IDX Channel
 #EXTVLCOPT:http-user-agent=ExoPlayerLib
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -626,12 +603,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.m
 #EXTINF:-1 group-title="BERITA" tvg-id="ntvnews24.jp" tvg-logo="https://i.imgur.com/hoyuTUP.png",NTV News 24
 https://n24-cdn-live-b.ntv.co.jp/ch01/index.m3u8
  
- 
 #EXTINF:-1 group-title="BERITA" tvg-id="tv5mondeasia.fr" tvg-logo="https://www.lcf-magazine.com/wp-content/uploads/2014/09/logo-TV5Monde.jpg",TV5 Monde
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://worker-bold-king-f3d4.aimiemah.workers.dev/
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0642d33e6d20/manifest.mpd
- 
  
 #EXTINF:-1 group-title="BERITA" tvg-id="trtworld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/640px-TRT_World_logo.svg.png",TRT World
 #EXTVLCOPT:http-user-agent=ExoPlayerLib
@@ -656,11 +631,10 @@ https://livestream4.zazerconer.workers.dev/live/gCNeDWCI0vo.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDmtJTdr/z.png" group-title="BERITA", Live Now
 https://livestream4.zazerconer.workers.dev/live/3_-jZqsQqdk.m3u8
  
-###########################
-#######PENGETAHUAN######
-###########################
-=====================================================================
-```````` PENGETAHUAN ````````
+##########################
+####### PENGETAHUAN ######
+##########################
+
 
  
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-id="animalplanetsoutheastasia.sg" tvg-logo="https://i.imgur.com/CO7N8wc.png",Animal Planet
@@ -676,7 +650,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-id="sonybbcearth.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png",Sony BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
- 
  
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-id="cgtndocumentary.cn" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/CGTN_Documentary_II.svg/revision/latest/scale-to-width-down/640",CGTN Documentary
 #EXTVLCOPT:http-user-agent=ExoPlayerLib
@@ -755,36 +728,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
  
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-id="smithsonianchanneleast.us" tvg-logo="https://i.imgur.com/okSbavu.png",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-
-
-###########################
-####### PENGETAHUAN #######
-###########################
-
-#
-
-#
-#
-
-#
-
-#
-
-
-########################
-######### FILM #########
-########################
-
-#
-
-#
-
-#
-
-#
-
-#
-
 
 #########################
 ######## HIBURAN ########
@@ -984,17 +927,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6858119921801816b5359d
 https://cempedak-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 
-########################
-####### OLAHRAGA #######
-########################
-
-#
-
-#
-
-#
-
-
 #######################
 ######## MUSIK ########
 #######################
@@ -1045,23 +977,6 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd
-
-
-########################
-######## DAKWAH ########
-########################
-
-
-
-##########################
-######## LPP TVRI ########
-##########################
-
-
-
-########################
-######## DAERAH ########
-########################
 
 
 
