@@ -6,8 +6,27 @@
 
 
 '''''''LIVE EVENT''''''''
+#EXTINF:-1 group-title="LIVE Event" tvg-logo="https://media.licdn.com/dms/image/D4D12AQGBS0okttdnkg/article-cover_image-shrink_600_2000/0/1683890474110?e=2147483647&v=beta&t=EtshZ4vvlFcjCR_Z4R-TfL9O0HcXaxVPEFlqbw8ZclY",Streaming 1
+https://tvnid.x10.mx/st1.m3u8|referer=https://ppdd01.xiimadedishalthough.shop/&user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
 
+#EXTINF:-1 group-title="LIVE Event " tvg-logo="https://media.licdn.com/dms/image/D4D12AQGBS0okttdnkg/article-cover_image-shrink_600_2000/0/1683890474110?e=2147483647&v=beta&t=EtshZ4vvlFcjCR_Z4R-TfL9O0HcXaxVPEFlqbw8ZclY",Streaming 2
+https://tvnid.x10.mx/st2.m3u8|referer=https://ppdd01.xiimadedishalthough.shop/&user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
 
+#EXTINF:-1 group-title="LIVE Event" tvg-logo="https://media.licdn.com/dms/image/D4D12AQGBS0okttdnkg/article-cover_image-shrink_600_2000/0/1683890474110?e=2147483647&v=beta&t=EtshZ4vvlFcjCR_Z4R-TfL9O0HcXaxVPEFlqbw8ZclY",Streaming 3
+https://tvnid.x10.mx/st3.m3u8|referer=https://ppdd01.xiimadedishalthough.shop/&user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+
+#EXTINF:-1 group-title="LIVE Event" tvg-logo="https://media.licdn.com/dms/image/D4D12AQGBS0okttdnkg/article-cover_image-shrink_600_2000/0/1683890474110?e=2147483647&v=beta&t=EtshZ4vvlFcjCR_Z4R-TfL9O0HcXaxVPEFlqbw8ZclY",Streaming 4
+https://tvnid.x10.mx/st4.m3u8|referer=https://ppdd01.xiimadedishalthough.shop/&user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+
+#EXTINF:-1 group-title="LIVE Event" tvg-logo="https://media.licdn.com/dms/image/D4D12AQGBS0okttdnkg/article-cover_image-shrink_600_2000/0/1683890474110?e=2147483647&v=beta&t=EtshZ4vvlFcjCR_Z4R-TfL9O0HcXaxVPEFlqbw8ZclY", SCTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9
+
+#EXTINF:-1 group-title="LIVE Event" tvg-logo="https://media.licdn.com/dms/image/D4D12AQGBS0okttdnkg/article-cover_image-shrink_600_2000/0/1683890474110?e=2147483647&v=beta&t=EtshZ4vvlFcjCR_Z4R-TfL9O0HcXaxVPEFlqbw8ZclY", SCTV HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
 
 
 ```````` NASIONAL ````````
