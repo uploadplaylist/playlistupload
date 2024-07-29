@@ -8,6 +8,13 @@ https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12192.m3u8|User-Age
 http://xtv.ooo:8080/Ijaaz123/aijaz321/350997
 http://iptvtree.net:8080/F18819/6eb39c7d/298550
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/117.m3u8|User-Agent=OTT
+
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="# 🟢LIVE EVENT🟢 #",INDOSIAR VIDIO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdnts=exp=1722260671~acl=/drm/dash/*~id=116165107~hmac=d21e7b95718624a1f2ff4a5c95903bf2499a0e6a4766b06565923c69189b167d&ck=YTcwYzZlM2ViNGY2NTI4NWViMTBlMzI2YWM2NmMwOTI6NTcyMjJiMWJkMjY2MmMwZjI5M2FjNDI0Nzc4MDlmNTc=
  
 #EXTINF:-1 tvg-id="Okey.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_XtwI72-x2n65IgUYFyWsf5pREW-Q7BmgZQ&s" group-title="# 🟢LIVE EVENT🟢 #", TEST Channel 1
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
