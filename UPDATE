@@ -9,13 +9,13 @@ http://xtv.ooo:8080/Ijaaz123/aijaz321/350997
 http://iptvtree.net:8080/F18819/6eb39c7d/298550
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/117.m3u8|User-Agent=OTT
 
-#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="# 🟢LIVE EVENT🟢 #",INDOSIAR VIDIO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="# 🟢LIVE EVENT🟢 #", Piala Presiden
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdnts=exp=1722260671~acl=/drm/dash/*~id=116165107~hmac=d21e7b95718624a1f2ff4a5c95903bf2499a0e6a4766b06565923c69189b167d&ck=YTcwYzZlM2ViNGY2NTI4NWViMTBlMzI2YWM2NmMwOTI6NTcyMjJiMWJkMjY2MmMwZjI5M2FjNDI0Nzc4MDlmNTc=
- 
+#KODIPROP:inputstream.adaptive.license_key=7b9e44ec21b66b14f0e3f988c272166b:4d443d5af885ec633486fef5aa3b1005
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1722786410~acl=/drm/dash/*~id=155691731~hmac=feaa61707a4a6e69a00fe31c51a707135a70f8a97a4fc120f25cddbb2a843b98
+
+
 #EXTINF:-1 tvg-id="Okey.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_XtwI72-x2n65IgUYFyWsf5pREW-Q7BmgZQ&s" group-title="# 🟢LIVE EVENT🟢 #", TEST Channel 1
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
  
@@ -33,17 +33,6 @@ http://iptvtree.net:8080/AmirBilali/76448035/162138
  
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="# 🟢LIVE EVENT🟢 #",Indosiar SD
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
-#EXTINF:-1 group-title="LIVE Event" tvg-logo="https://media.licdn.com/dms/image/D4D12AQGBS0okttdnkg/article-cover_image-shrink_600_2000/0/1683890474110?e=2147483647&v=beta&t=EtshZ4vvlFcjCR_Z4R-TfL9O0HcXaxVPEFlqbw8ZclY",Streaming 1
-https://tvnid.x10.mx/st1.m3u8|referer=https://ppdd01.xiimadedishalthough.shop/&user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-
-#EXTINF:-1 group-title="LIVE Event " tvg-logo="https://media.licdn.com/dms/image/D4D12AQGBS0okttdnkg/article-cover_image-shrink_600_2000/0/1683890474110?e=2147483647&v=beta&t=EtshZ4vvlFcjCR_Z4R-TfL9O0HcXaxVPEFlqbw8ZclY",Streaming 2
-https://tvnid.x10.mx/st2.m3u8|referer=https://ppdd01.xiimadedishalthough.shop/&user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-
-#EXTINF:-1 group-title="LIVE Event" tvg-logo="https://media.licdn.com/dms/image/D4D12AQGBS0okttdnkg/article-cover_image-shrink_600_2000/0/1683890474110?e=2147483647&v=beta&t=EtshZ4vvlFcjCR_Z4R-TfL9O0HcXaxVPEFlqbw8ZclY",Streaming 3
-https://tvnid.x10.mx/st3.m3u8|referer=https://ppdd01.xiimadedishalthough.shop/&user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-
-#EXTINF:-1 group-title="LIVE Event" tvg-logo="https://media.licdn.com/dms/image/D4D12AQGBS0okttdnkg/article-cover_image-shrink_600_2000/0/1683890474110?e=2147483647&v=beta&t=EtshZ4vvlFcjCR_Z4R-TfL9O0HcXaxVPEFlqbw8ZclY",Streaming 4
-https://tvnid.x10.mx/st4.m3u8|referer=https://ppdd01.xiimadedishalthough.shop/&user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
 
 #EXTINF:-1 group-title="LIVE Event" tvg-logo="https://media.licdn.com/dms/image/D4D12AQGBS0okttdnkg/article-cover_image-shrink_600_2000/0/1683890474110?e=2147483647&v=beta&t=EtshZ4vvlFcjCR_Z4R-TfL9O0HcXaxVPEFlqbw8ZclY", SCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
