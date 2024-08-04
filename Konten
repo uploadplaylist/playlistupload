@@ -6,27 +6,12 @@
 
 
 '''''''LIVE EVENT''''''''
-#EXTINF:-1 group-title="LIVE Event" tvg-logo="https://media.licdn.com/dms/image/D4D12AQGBS0okttdnkg/article-cover_image-shrink_600_2000/0/1683890474110?e=2147483647&v=beta&t=EtshZ4vvlFcjCR_Z4R-TfL9O0HcXaxVPEFlqbw8ZclY",Streaming 1
-https://tvnid.x10.mx/st1.m3u8|referer=https://ppdd01.xiimadedishalthough.shop/&user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
 
-#EXTINF:-1 group-title="LIVE Event " tvg-logo="https://media.licdn.com/dms/image/D4D12AQGBS0okttdnkg/article-cover_image-shrink_600_2000/0/1683890474110?e=2147483647&v=beta&t=EtshZ4vvlFcjCR_Z4R-TfL9O0HcXaxVPEFlqbw8ZclY",Streaming 2
-https://tvnid.x10.mx/st2.m3u8|referer=https://ppdd01.xiimadedishalthough.shop/&user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-
-#EXTINF:-1 group-title="LIVE Event" tvg-logo="https://media.licdn.com/dms/image/D4D12AQGBS0okttdnkg/article-cover_image-shrink_600_2000/0/1683890474110?e=2147483647&v=beta&t=EtshZ4vvlFcjCR_Z4R-TfL9O0HcXaxVPEFlqbw8ZclY",Streaming 3
-https://tvnid.x10.mx/st3.m3u8|referer=https://ppdd01.xiimadedishalthough.shop/&user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-
-#EXTINF:-1 group-title="LIVE Event" tvg-logo="https://media.licdn.com/dms/image/D4D12AQGBS0okttdnkg/article-cover_image-shrink_600_2000/0/1683890474110?e=2147483647&v=beta&t=EtshZ4vvlFcjCR_Z4R-TfL9O0HcXaxVPEFlqbw8ZclY",Streaming 4
-https://tvnid.x10.mx/st4.m3u8|referer=https://ppdd01.xiimadedishalthough.shop/&user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-
-#EXTINF:-1 group-title="LIVE Event" tvg-logo="https://media.licdn.com/dms/image/D4D12AQGBS0okttdnkg/article-cover_image-shrink_600_2000/0/1683890474110?e=2147483647&v=beta&t=EtshZ4vvlFcjCR_Z4R-TfL9O0HcXaxVPEFlqbw8ZclY", SCTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9
-
-#EXTINF:-1 group-title="LIVE Event" tvg-logo="https://media.licdn.com/dms/image/D4D12AQGBS0okttdnkg/article-cover_image-shrink_600_2000/0/1683890474110?e=2147483647&v=beta&t=EtshZ4vvlFcjCR_Z4R-TfL9O0HcXaxVPEFlqbw8ZclY", SCTV HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="LIVE Event", Piala Presiden
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b9e44ec21b66b14f0e3f988c272166b:4d443d5af885ec633486fef5aa3b1005
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1722786410~acl=/drm/dash/*~id=155691731~hmac=feaa61707a4a6e69a00fe31c51a707135a70f8a97a4fc120f25cddbb2a843b98
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HINyEUbqOvFWhgWRllam41Jw.png" group-title="LIVE Event",LIGA INDO
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12192.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
