@@ -7,10 +7,12 @@
 
 '''''''LIVE EVENT''''''''
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HINyEUbqOvFWhgWRllam41Jw.png" group-title="# 🟢LIVE EVENT🟢",TIMNAS LIVE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HINyEUbqOvFWhgWRllam41Jw.png" group-title="LIVE Event",TIMNAS LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://fhlsport20.fls77.xyz/token-dBJzyracIPSGvzYvx%2FY6zWOClMDRgSzjZSX8wvdJEDH1tLOZHUFdCI0oqBVOWU5JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/ns28r3nsnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_576625.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIvQo8Uk12o7ANH9bvrdYl0A.png" group-title="LIVE Event",PRO LIGA
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/117.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
