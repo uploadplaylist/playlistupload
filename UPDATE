@@ -210,12 +210,24 @@ NOT FOUND !!
 ```````` # SUPPORT | ADMIN # ````````
 #EXTINF:-1 group-logo="https://i.pngimg.me/thumb/f/720/comdlpng6943971.jpg"
 
-#EXTINF:-1 tvg-logo="https://i.pngimg.me/thumb/f/720/comdlpng6943971.jpg" group-title="# SUPPORT | ADMIN #",1. SELAMAT DATANG DI IPTV-FREEMIUM™ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvexhsjTYrWCXSS0tcJP-15nNdO4O3grbyXA&s" group-title="# SUPPORT | ADMIN #",1. SELAMAT DATANG DI IPTV-FREEMIUM™ 
 https://www.youtube.com/@playlistfreemium
-#EXTINF:-1 tvg-logo="https://i.pngimg.me/thumb/f/720/comdlpng6943971.jpg" group-title="# SUPPORT | ADMIN #",2. BANTU SUBSCRIBE AND LIKE CHANNEL YOUTUBE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvexhsjTYrWCXSS0tcJP-15nNdO4O3grbyXA&s" group-title="# SUPPORT | ADMIN #",2. BANTU SUBSCRIBE AND LIKE CHANNEL YOUTUBE
 https://www.youtube.com/@playlistfreemium
-#EXTINF:-1 tvg-logo="https://i.pngimg.me/thumb/f/720/comdlpng6943971.jpg" group-title="# SUPPORT | ADMIN #",3. TERIMA KASIH
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvexhsjTYrWCXSS0tcJP-15nNdO4O3grbyXA&s" group-title="# SUPPORT | ADMIN #",3. TERIMA KASIH
 https://www.youtube.com/@playlistfreemium
+
+========================================================================================================
+
+#EXTINF:-1 tvg-id="VTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/vtv.png?raw=true" group-title="IPTV FREEMIUM", VTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch107.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="IPTV FREEMIUM",Trans TV HD
+https://livestream.transtv.co.id/stream/live/ttv.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="IPTV FREEMIUM",Trans7 HD
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w365876275_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://images.indihometv.com/logo_sctv_ver1.png" group-title="IPTV FREEMIUM",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
