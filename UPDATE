@@ -680,5 +680,52 @@ https://av-ch-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.m
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://av-ch-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash/MNCInfotainment.mpd
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", SCTV
+https://live.catvod.com/smart.php?id=SCTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", RCTI
+https://live.catvod.com/smart.php?id=RCTI
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", ANTV
+https://live.catvod.com/smart.php?id=ANTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", INDOSIAR
+https://live.catvod.com/smart.php?id=INDOSIAR
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", INEWS
+https://live.catvod.com/smart.php?id=INEWS
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", MNC 
+https://live.catvod.com/smart.php?id=MNC
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", MOJI
+https://live.catvod.com/smart.php?id=MOJI
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", GTV 
+https://live.catvod.com/smart.php?id=GTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", MDTV
+https://live.catvod.com/smart.php?id=MDTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", KOMPAS TV
+https://live.catvod.com/smart.php?id=KOMPASTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", METRO TV 
+https://live.catvod.com/smart.php?id=METROTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", RTV
+https://live.catvod.com/smart.php?id=RTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", TRANS TV
+https://live.catvod.com/smart.php?id=TRANSTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", TRNS 7
+https://live.catvod.com/smart.php?id=TRANS7
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", TV ONE
+https://live.catvod.com/smart.php?id=TVONE
+
+
  
 
