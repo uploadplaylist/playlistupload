@@ -684,14 +684,14 @@ https://av-ch-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash/MNCInfotainment.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", SCTV
 https://live.catvod.com/smart.php?id=SCTV
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", RCTI
-https://live.catvod.com/smart.php?id=RCTI
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", Astro Premier League 1
+https://live.catvod.com/smart.php?id=go_assp1
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", ANTV
-https://live.catvod.com/smart.php?id=ANTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", Astro Premier League 2
+https://live.catvod.com/smart.php?id=go_assp2
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", INDOSIAR
-https://live.catvod.com/smart.php?id=INDOSIAR
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", Astro Badminton 1
+https://live.catvod.com/smart.php?id=go_badminton1
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", INEWS
 https://live.catvod.com/smart.php?id=INEWS
